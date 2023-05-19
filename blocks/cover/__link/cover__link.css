@@ -1,0 +1,10 @@
+.cover__link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  aspect-ratio: 16/10;
+  color: #fff;
+  text-decoration: none;
+  background: url(../../../images/train_travel_desktop.png) center/100%
+    no-repeat;
+}
