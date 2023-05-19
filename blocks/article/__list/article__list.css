@@ -1,0 +1,15 @@
+.article__list {
+  padding: 14px 0 0;
+}
+
+@media screen and (min-width: 768px) {
+  .article__list {
+    padding: 88px 0 0;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .article__list {
+    padding: 92px 0 0;
+  }
+}

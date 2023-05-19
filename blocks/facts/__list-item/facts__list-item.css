@@ -1,0 +1,10 @@
+.facts__list-item {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  color: var(--text-color);
+}
+
+.facts__list-item span {
+  font-weight: 400;
+}

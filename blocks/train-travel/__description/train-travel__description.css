@@ -1,0 +1,16 @@
+.train-travel__description {
+  max-width: 360px;
+  margin: 16px auto 0;
+  font-size: 14px;
+  text-align: center;
+  line-height: 16px;
+  color: var(--text-color);
+}
+
+@media screen and (min-width: 768px) {
+  .train-travel__description {
+    margin: 32px auto 0;
+    font-size: 18px;
+    line-height: 22px;
+  }
+}

@@ -1,0 +1,11 @@
+.article__text {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+@media screen and (max-width: 767px) {
+  .article__text {
+    padding: 0 16px;
+  }
+}

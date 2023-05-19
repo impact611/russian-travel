@@ -1,0 +1,30 @@
+.article {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+@media screen and (min-width: 768px) {
+  .article {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0 24px;
+    gap: 48px 28px;
+  }
+
+  .article:not(:first-child) {
+    margin-top: 72px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .article {
+    padding: 0 48px;
+    gap: 48px 32px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .article {
+    padding: 0 148px;
+    gap: 48px 40px;
+  }
+}

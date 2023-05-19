@@ -1,0 +1,21 @@
+.facts {
+  padding: 0 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .facts {
+    padding: 0 24px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .facts {
+    padding: 0 48px;
+  }
+}
+
+/* @media screen and (min-width: 1280px) {
+  .facts {
+    padding: 0 100px;
+  }
+} */
