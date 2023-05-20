@@ -3,7 +3,6 @@
   line-height: 22px;
   text-decoration-line: underline;
   color: #ffffff;
-  transition: all;
   opacity: 1;
   transition: opacity 0.2s ease-in-out;
 }
