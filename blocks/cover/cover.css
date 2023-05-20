@@ -12,6 +12,11 @@
 @media screen and (min-width: 1024px) {
   .cover {
     margin-top: 92px;
-    padding: 0 48px; 
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .cover {
+    padding: 0 48px;
   }
 }
