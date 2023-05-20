@@ -1,7 +1,8 @@
 .article__link-label {
-  margin-bottom: 12px;
+  margin: 0 0 12px 0;
   font-size: 12px;
   line-height: 12px;
   letter-spacing: 2px;
   color: var(--light-text-color);
+  text-transform: uppercase;
 }
